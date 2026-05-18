@@ -3,6 +3,9 @@ This project compares Naïve Bayes, KNN, and Decision Tree models for disaster p
 
 Group Members:
 
+
 Mantiquilla, Joanah Kate
+
 Palanggalan, Al-Hamer
+
 Tangalin, Armie Joy
